@@ -15,8 +15,8 @@ Innovative and results-driven **Lead Software Engineer** with over 20 years of h
 - **Technical Leadership:** Agile methodologies, sprint planning, release management, mentoring & coaching  
 - **Backend Development:** Go, PHP, microservices, gRPC, REST APIs, distributed systems  
 - **Databases & Messaging:** MySQL, Redis, Kafka  
-- **Architecture & Scalability:** Cloud-native design, Kubernetes, performance & reliability optimization  
-- **DevOps & CI/CD:** Kubernetes, Docker, Jenkins, automation pipelines  
+- **Architecture & Observability:** Cloud-native design, Kubernetes, performance & reliability optimization, Prometheus, Grafana  
+- **Automation & Containerization:** Kubernetes, Docker, Jenkins, automation pipelines  
 - **Problem Solving:** Performance tuning, resilience, fault tolerance, root-cause analysis  
 - **Languages:** English (good), Russian (native)
 
@@ -29,10 +29,11 @@ Innovative and results-driven **Lead Software Engineer** with over 20 years of h
 *2014 – Present | Wrocław, Poland*
 
 - Designed and implemented **SugarIdentity**: a central authentication and identity management platform powering SugarCRM.
-- Developed scalable microservices in **Go** and **PHP**, seamlessly integrated with **Kubernetes**, **gRPC**, **Kafka**, **MySQL**, **Redis**, and modern DevOps practices.
+- Developed scalable microservices in **Go** and **PHP**, seamlessly integrated with **Kubernetes**, **gRPC**, **Kafka**, **MySQL**, **Redis**, and modern automation practices.
 - Enhanced SugarCRM Core for increased platform stability and seamless integrations.
 - Led sprint planning, release management, and cross-team collaboration to ensure timely delivery of complex features.
 - Identified and eliminated performance bottlenecks, significantly improving system reliability and user experience.
+- Implemented observability and monitoring solutions using **Prometheus** and **Grafana**.
 
 ---
 
